@@ -19,8 +19,8 @@ Coming soon
 
 ## Find a bug?
 
-if you found an issue or would like to submit an improvement to this project, please submit an issue using the issues tab above. If you would like to submit a PR with a fix, reference the issue you created. :smile
+if you found an issue or would like to submit an improvement to this project, please submit an issue using the issues tab above. If you would like to submit a PR with a fix, reference the issue you created.
 
 ## Known issues (Work in progress)
 
-The project is still on going. The 
+The project is still ongoing. 
